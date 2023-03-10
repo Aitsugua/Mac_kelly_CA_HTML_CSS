@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: 40px;
+    background-color: lightgray;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-top: 30px;
+    border: 40px;
+}
+.mac{
+    margin-top: 30px;
+}
+.form{
+  
+    width: 290px;
+    height: px;
+    border-radius: 20px;
+    /* border: 1px solid blue; */
+    }
+    .box{
+        margin: 20px;
+        color: rgb(0, 0, 0);
+        
+    }
+    input{
+        margin: 16px auto;
+        width: 170px;
+        height: 20px;
+        border-radius: 4px;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        background: none;
+    }
